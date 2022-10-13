@@ -1,0 +1,24 @@
+.img{
+   max-width: 25%;
+}
+.actives{
+   color: yellow;
+   
+}
+.activesDropdown{
+   background-color: rgb(0, 0, 0);
+   
+}
+.activesDropdown2:hover{
+   background-color: rgb(141, 127, 49);
+   
+}
+.claseActiva {
+   color: rgb(71, 73, 55);
+   margin: 30px;
+ }
+ 
+ .claseInactiva {
+   color: #17191d;
+   margin: 25px;
+ }
